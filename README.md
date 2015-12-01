@@ -15,42 +15,42 @@ See [this instruction](http://morfy.org/documentation/plugins/plugins-installati
 ## Usage
 In any site template:
 ```smarty
-{Detect::getUserAgent()} <br>
-{Detect::mobileGrade()} <br>
+{Detect::getUserAgent()}
+{Detect::mobileGrade()}
 
 {if Detect::isMobile()}
-    isMobile <br>
+    isMobile
 {/if}
 
 {if Detect::isTablet()}
-    isTablet <br>
+    isTablet
 {/if}
 
 {if Detect::isiPhone()}
-    isiPhone <br>
+    isiPhone
 {/if}
 
 {if Detect::isiPad()}
-    isiPad <br>
+    isiPad
 {/if}
 
 {if Detect::isIOS()}
-    isIOS <br>
+    isIOS
 {/if}
 {if Detect::isAndroid()}
-    isAndroid <br>
+    isAndroid
 {/if}
 {if Detect::isChrome()}
-    isChrome <br>
+    isChrome
 {/if}
 {if Detect::isOpera()}
-    isOpera <br>
+    isOpera
 {/if}
 {if Detect::isFirefox()}
-    isFirefox <br>
+    isFirefox
 {/if}
 {if Detect::isIE()}
-    isIE <br>
+    isIE
 {/if}
 ```
 
