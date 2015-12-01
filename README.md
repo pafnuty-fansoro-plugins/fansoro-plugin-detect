@@ -16,6 +16,7 @@ See [this instruction](http://morfy.org/documentation/plugins/plugins-installati
 In any site template:
 ```smarty
 {Detect::getUserAgent()}
+
 {Detect::mobileGrade()}
 
 {if Detect::isMobile()}
@@ -37,18 +38,23 @@ In any site template:
 {if Detect::isIOS()}
     isIOS
 {/if}
+
 {if Detect::isAndroid()}
     isAndroid
 {/if}
+
 {if Detect::isChrome()}
     isChrome
 {/if}
+
 {if Detect::isOpera()}
     isOpera
 {/if}
+
 {if Detect::isFirefox()}
     isFirefox
 {/if}
+
 {if Detect::isIE()}
     isIE
 {/if}
