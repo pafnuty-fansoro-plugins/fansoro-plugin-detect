@@ -20,43 +20,43 @@ In any site template:
 {Detect::mobileGrade()}
 
 {if Detect::isMobile()}
-    isMobile
+    {* Do something fot Mobile *}
 {/if}
 
 {if Detect::isTablet()}
-    isTablet
+    {* Do something fot Tablet *}
 {/if}
 
 {if Detect::isiPhone()}
-    isiPhone
+    {* Do something fot iPhone *}
 {/if}
 
 {if Detect::isiPad()}
-    isiPad
+    {* Do something fot iPad *}
 {/if}
 
 {if Detect::isIOS()}
-    isIOS
+    {* Do something fot IOS *}
 {/if}
 
 {if Detect::isAndroid()}
-    isAndroid
+    {* Do something fot Android *}
 {/if}
 
 {if Detect::isChrome()}
-    isChrome
+    {* Do something fot Chrome *}
 {/if}
 
 {if Detect::isOpera()}
-    isOpera
+    {* Do something fot Opera *}
 {/if}
 
 {if Detect::isFirefox()}
-    isFirefox
+    {* Do something fot Firefox *}
 {/if}
 
 {if Detect::isIE()}
-    isIE
+    {* Do something fot IE *}
 {/if}
 ```
 
