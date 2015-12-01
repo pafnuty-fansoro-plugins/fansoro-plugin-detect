@@ -1,0 +1,13 @@
+name: Detect
+version: 1.0.0
+description: "Detect plugin for Morfy CMS"
+author:
+  name: Pavel Belousov
+  email: pafnuty10@gmail.com
+  url: http://pafnuty.name
+homepage: https://github.com/pafnuty-morfy-plugins/morfy-plugin-detect
+bugs: https://github.com/pafnuty-morfy-plugins/morfy-plugin-detect/issues
+license: MIT
+
+# Plugin settings
+enabled: true
