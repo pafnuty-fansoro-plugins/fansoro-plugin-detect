@@ -1,8 +1,8 @@
-# Detect Plugin for [Morfy CMS](http://morfy.org/)
+# Detect Plugin for [Fansoro CMS](http://fansoro.org/)
 
-![version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg?style=flat-square "Version")
-![DLE](https://img.shields.io/badge/Morfy-2.x-green.svg?style=flat-square "Morfy Version")
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/pafnuty-morfy-plugins/morfy-plugin-detect/blob/master/LICENSE)
+![version](https://img.shields.io/badge/version-1.1.0-brightgreen.svg?style=flat-square "Version")
+![DLE](https://img.shields.io/badge/Fansoro-2.x-green.svg?style=flat-square "Fansoro Version")
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-detect/blob/master/LICENSE)
 
 The plugin to define the different types of devices from which the user browses the site. Based on [Mobile_Detect](http://mobiledetect.net/) class.
 
@@ -10,7 +10,7 @@ Special thanks https://github.com/Awilum for an example implementation code.
 
 
 ## Install
-See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
+See [this instruction](http://fansoro.org/documentation/plugins/plugins-installation)
 
 ## Usage
 In any site template:
@@ -62,4 +62,4 @@ In any site template:
 
 
 ## License 
-[MIT](https://github.com/pafnuty-morfy-plugins/morfy-plugin-detect/blob/master/LICENSE)
+[MIT](https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-detect/blob/master/LICENSE)

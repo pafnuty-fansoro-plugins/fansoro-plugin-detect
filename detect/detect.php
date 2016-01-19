@@ -1,14 +1,14 @@
 <?php
 
 /**
- * Detect plugin for Morfy CMS
+ * Detect plugin for Fansoro CMS
  *
- * @package    Morfy
+ * @package    Fansoro
  * @subpackage Plugins
  * @author     Pavel Belousov / pafnuty
  * @author     Romanenko Sergey / Awilum
- * @version    1.0.0
- * @license    https://github.com/pafnuty-morfy-plugins/morfy-plugin-detect/blob/master/LICENSE MIT
+ * @version    1.1.0
+ * @license    https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-detect/blob/master/LICENSE MIT
  *
  */
 
